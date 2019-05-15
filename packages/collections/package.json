@@ -3,7 +3,6 @@
   "version": "0.0.8",
   "description": "> TODO: description",
   "author": "Alex Sanchez <asanchez.dev@gmail.com>",
-  "private": true,
   "homepage": "",
   "license": "ISC",
   "main": "dist/collections.js",
