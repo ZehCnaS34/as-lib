@@ -1,0 +1,23 @@
+{
+  "name": "collections",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Alex Sanchez <asanchez.dev@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/collections.js",
+  "module": "dist/collections.module.js",
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "registry": "http://0.0.0.0:4873"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
