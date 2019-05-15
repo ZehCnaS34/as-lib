@@ -1,0 +1,30 @@
+{
+  "name": "@aslib/bro",
+  "version": "0.0.10",
+  "description": "> TODO: description",
+  "author": "Alex Sanchez <asanchez.dev@gmail.com>",
+  "homepage": "https://github.com/ZehCnaS34/as-lib#readme",
+  "license": "ISC",
+  "main": "dist/bro.js",
+  "module": "dist/bro.module.js",
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "registry": "http://0.0.0.0:4873"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZehCnaS34/as-lib.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ZehCnaS34/as-lib/issues"
+  }
+}
